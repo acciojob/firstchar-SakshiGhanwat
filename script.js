@@ -7,7 +7,7 @@ function firstChar(text) {
   return ""; // if only spaces or empty string
 }
 
-// Do not change the code below
-// Uncomment the following line to show the prompt popup
-// const text = prompt("Enter text:");
+// input घेण्यासाठी
+const text = prompt("Enter text:");
+
 alert(firstChar(text));
